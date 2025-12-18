@@ -1,0 +1,18 @@
+ Machine Learning Basics
+        Machine Learning (ML) is a subset of artificial intelligence that focuses on building systems that can learn from and make decisions based on data.
+        It involves training algorithms to recognize patterns and make predictions or decisions without being explicitly programmed for specific tasks.
+
+        Key Concepts in Machine Learning:
+        1. Supervised Learning
+        2. Unsupervised Learning
+        3. Reinforcement Learning
+        4. Overfitting and Underfitting
+
+        Machine learning is widely used in various applications, including recommendation systems, image recognition, natural language processing, and more.
+
+        tYpe of Machine Learning Algorithms:
+        1. Linear Regression
+        2. Decision Trees
+        3. Support Vector Machines
+        4. Neural Networks
+    
